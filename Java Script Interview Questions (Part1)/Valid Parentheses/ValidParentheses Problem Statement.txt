@@ -1,0 +1,2 @@
+Challenge 9: Valid Parentheses
+Write a function that takes a string containing only parentheses (and other characters) and determines if the parentheses are properly balanced.

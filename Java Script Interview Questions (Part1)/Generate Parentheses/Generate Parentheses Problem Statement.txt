@@ -1,0 +1,2 @@
+Challenge 25: Generate Parentheses
+Write a function that generates all possible combinations of n pairs of well-formed parentheses.

@@ -1,0 +1,6 @@
+Write a Code to reverse Java Script Array?
+const a = [1, 2, 3];
+console.log(a);  // Output: [1, 2, 3]
+
+a.reverse();
+console.log(a);  // Output: [3, 2, 1]

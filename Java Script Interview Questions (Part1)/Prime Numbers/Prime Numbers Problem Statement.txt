@@ -1,0 +1,2 @@
+Challenge 10: Prime Numbers
+Write a function that returns an array of prime numbers up to a given number n.

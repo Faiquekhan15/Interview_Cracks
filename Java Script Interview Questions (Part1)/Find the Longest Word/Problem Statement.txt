@@ -1,0 +1,2 @@
+Challenge 3: Find the Longest Word
+Write a function that takes a sentence as input and returns the length of the longest word.

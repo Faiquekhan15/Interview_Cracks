@@ -1,0 +1,2 @@
+Challenge 16: Longest Substring Without Repeating Characters
+Write a function that finds the length of the longest substring in a given string without repeating characters

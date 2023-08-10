@@ -1,0 +1,2 @@
+Challenge 28: Subarray with Sum
+Write a function that takes an array of positive integers and a target sum, and returns the indices of the subarray that adds up to the target sum.

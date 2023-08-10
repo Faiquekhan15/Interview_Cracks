@@ -1,0 +1,2 @@
+Challenge 18: Flatten Nested Array
+Write a function that takes a nested array and returns a flat array containing all the elements.

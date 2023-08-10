@@ -1,0 +1,2 @@
+Challenge 21: Binary Search
+Write a function that performs a binary search on a sorted array and returns the index of the target element, or -1 if the element is not found.

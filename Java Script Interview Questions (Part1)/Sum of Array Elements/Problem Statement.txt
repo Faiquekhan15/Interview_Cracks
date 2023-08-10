@@ -1,0 +1,2 @@
+Challenge 4: Sum of Array Elements
+Write a function that calculates the sum of all elements in an array.

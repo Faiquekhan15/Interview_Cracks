@@ -1,0 +1,2 @@
+Challenge 17: Two Sum
+Write a function that takes an array of numbers and a target number, and returns an array of indices of the two numbers that add up to the target.

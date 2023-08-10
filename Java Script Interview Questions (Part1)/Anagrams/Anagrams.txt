@@ -1,0 +1,2 @@
+Challenge 13: Anagrams
+Write a function that takes two strings and determines if they are anagrams of each other (contain the same characters in a different order).

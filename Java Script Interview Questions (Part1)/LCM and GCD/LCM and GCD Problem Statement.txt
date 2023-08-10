@@ -1,0 +1,2 @@
+Challenge 23: LCM and GCD
+Write functions to calculate the Least Common Multiple (LCM) and Greatest Common Divisor (GCD) of two numbers.

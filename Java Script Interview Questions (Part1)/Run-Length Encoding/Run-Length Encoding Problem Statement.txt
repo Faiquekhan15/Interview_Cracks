@@ -1,0 +1,2 @@
+Challenge 27: Run-Length Encoding
+Write a function that performs run-length encoding on a given string.

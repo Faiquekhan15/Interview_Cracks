@@ -1,0 +1,2 @@
+Challenge 7: Factorial
+Write a function that calculates the factorial of a given number.

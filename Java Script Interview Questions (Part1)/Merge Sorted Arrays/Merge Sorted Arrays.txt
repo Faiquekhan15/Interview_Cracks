@@ -1,0 +1,2 @@
+Challenge 19: Merge Sorted Arrays
+Write a function that takes two sorted arrays and merges them into a single sorted array.
