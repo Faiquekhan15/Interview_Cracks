@@ -19,10 +19,9 @@ Are you gearing up for technical interviews and looking for quick, efficient sol
 Getting started with our repository is a breeze:
 
 1. Browse the folders to find the topic you're interested in.
-2. Each snippet comes with a clear problem statement and a concise solution in your preferred programming language.
-3. Dive into the code, understand the thought process, and adapt it to your own coding style.
-4. Contribute your own snippets to help others and be part of our growing community.
-
+2. Each snippet comes with a clear problem statement.
+3. Contribute your own snippets to help others and be part of our growing community.
+4. Explore Word Documents for core concepts
 Start your journey towards interview success today with the Interview Prep Code Snippets Repository. Remember, practice makes perfect, and we're here to empower you every step of the way.
 
 Connect with me on https://www.linkedin.com/in/muhammad-faique-35093b210  and join the conversation using #InterviewPrepSnippets.
