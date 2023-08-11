@@ -6,8 +6,6 @@ Are you gearing up for technical interviews and looking for quick, efficient sol
 
 **Repository Highlights:**
 
-🔥 **Curated Snippets**: Our expert-curated snippets cover a wide range of topics, including data structures, algorithms, problem-solving techniques, and more. Each snippet is carefully crafted to provide you with clear, concise, and efficient solutions to commonly asked interview questions.
-
 ⏱️ **Time-Saving**: Don't waste precious interview preparation time searching the internet for solutions. Our repository provides quick access to tested and optimized code examples, allowing you to focus on understanding the core concepts and practicing problem-solving strategies.
 
 📚 **Comprehensive Coverage**: Whether you're a beginner or an experienced coder, our repository caters to all skill levels. From foundational coding challenges to advanced algorithmic puzzles, you'll find the right snippets to enhance your skills and boost your confidence.
