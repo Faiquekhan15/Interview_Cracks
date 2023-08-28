@@ -18,3 +18,14 @@ c)  Vertical and horizontal partitioning cannot be combined.
 d) Round-robin partitioning is a partitioning strategy that is especially good when the number of partitions changes over time.
 
  **Answer is a,b,d
+
+
+5. Caching 2 
+Caching is used to serve stored data more efficiently. It is commonly used, particularly in large scale distributed systems, to allow the most frequently accessed information to be available at a lower cost in time or resources. Since cache capacity is limited, strategies are employed to determine what is in the cache and when it should be replaced. These are referred to as eviction policies and replacement policies. Which of the following are true? 
+Pick ONE OR MORE options 
+a) A cache hit is a situation when the cache becomes full. 
+b)  LRU and MRU are eviction policies that respectively discard least recently used and most recently used elements from El the cache to make space for other elements. In applications like social networks with feed, LRU, in general, performs significantly better than MRU. 
+c) If the future is known, it is possible to design an eviction policy that is optimal. 
+d) The data in a cache is always consistent with the changes made to it. Any time it is requested, the most recent version is returned. 
+
+ **Answer is b,c
