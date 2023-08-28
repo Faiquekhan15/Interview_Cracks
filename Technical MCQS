@@ -7,3 +7,14 @@ d) If a load balancer is not a bottleneck, then using it increases the throughpu
 e) Sometimes it makes sense to have a load balancer that distributes the load in an uneven manner. 
 
 **Answer is a,c,d,e
+
+
+2. Data Partitioning 
+In data partitioning, a large dataset is divided into smaller pieces. Which of the following are true? 
+Pick ONE OR MORE options 
+a) There is a users database that stores many attributes for each user. It is partitioned so that one partition gets names  and emails, another partition receives avatars and addresses and so on. This is called vertical partitioning. 
+b)  If you have a collection of users with a lot of attributes and you decide to partition the data so that each partition receives just a subset of users with all their attributes, this is called horizontal partitioning. 
+c)  Vertical and horizontal partitioning cannot be combined. 
+d) Round-robin partitioning is a partitioning strategy that is especially good when the number of partitions changes over time.
+
+ **Answer is a,b,d
