@@ -1,0 +1,47 @@
+Q1. Two trains are on same track and they are coming toward each other. The speed of the first train is 80 km/h and the speed of the second train is 80 km/h. A bird starts flying between the trains when the distance between two trains is 80 km. The bird first flies from first train to second train. Once it reaches the second train, it immediately flies back to the first train … and so on until trains collide. Calculate the total distance travelled by the bird. Speed of bird is 120 km/h. 
+
+The bird flies from Train A to Train B at 120 km/h for 0.5 hours. 
+Distance covered by the bird = Speed × Time = 120 km/h × 0.5 hours = 60 km (d1). After the collision: 
+1. Train A and Train B cover a combined distance of 80 km in 0.5 hours. 
+2. Distance covered by the trains = Speed × Time = 80 km/h × 0.5 hours = 40 km. 
+The total distance covered by the bird before and after the collision is the sum of the distance covered by the bird and the distance covered by the trains: 
+Total distance = Distance covered by the bird + Distance covered by the trains = 60 km + 40 km = 100 km. 
+
+Q2 To cut a cake into 8 equal pieces using only 3 cuts
+ you can follow these steps:
+1.	Initial Cake: Start with the whole cake.
+2.	First Cut: Make a cut horizontally through the middle of the cake. This will create two halves.
+Result: Two equal halves.
+3.	Second Cut: Stack the two halves on top of each other. Now, make a vertical cut down the center, perpendicular to the first cut. This will create two stacks of quarters.
+Result: Four quarters.
+4.	Third Cut: Place the two stacks of quarters side by side. Make a diagonal cut from the bottom left corner to the top right corner of the cake.
+Result: Eight equal pieces.
+
+Q3.You have two water jugs - a 5-gallon jug and a 3-gallon jug. Your goal is to measure exactly 4 gallons of water using only these two jugs. You cannot estimate or measure by eye; you must use the jugs to get an accurate 4 gallons.
+
+Problem Steps:
+1.	Fill the 5-gallon jug to its maximum capacity.
+2.	Use the filled 5-gallon jug to fill the 3-gallon jug, leaving 2 gallons of water in the 5-gallon jug.
+3.	Empty the 3-gallon jug, so it's completely empty.
+4.	Pour the remaining 2 gallons of water from the 5-gallon jug into the empty 3-gallon jug.
+5.	Fill the now-empty 5-gallon jug to its maximum capacity.
+6.	Carefully pour 1 gallon of water from the filled 5-gallon jug into the 3-gallon jug.
+Now, calculate how much water is left in the 5-gallon jug.
+Solution:
+There are 4 gallons of water left in the 5-gallon jug.
+
+Q3 You have 9 balls, equally big, equally heavy - except for one, which is a little heavier.
+How would you identify the heavier ball if you could use a pair of balance scales only twice?
+Step 1:
+1.	Divide the 9 balls into three groups of 3 balls each: A, B, and C.
+2.	Weigh group A against group B using the balance scales.
+Possible Outcomes:
+•	If the two groups balance, the heavier ball is in group C.
+•	If the two groups don't balance, proceed to Step 2.
+Step 2:
+1.	Take the group that's heavier (let's say it's group A without loss of generality) and divide it into three individual balls: A1, A2, and A3. Leave the other two groups (B and C) aside.
+2.	Weigh ball A1 against ball A2 using the balance scales.
+Possible Outcomes:
+•	If they balance, the heavier ball is A3.
+•	If they don't balance, the heavier ball is the one that tilts the scales down.
+
