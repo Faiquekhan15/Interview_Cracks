@@ -1,1 +1,9 @@
+1. Load balancing is a technique used to distribute a load across multiple devices, servers for example. Often it is configured to distribute the load evenly. Which of the following are true? 
+Pick ONE OR MORE options 
+a) Starving occurs when some resource, e.g. a server, does not process any requests, but others do. 
+b) Any reasonable system has only one load balancer. 
+c) A health check is a procedure that checks if the load is indeed balanced across resources. 
+d) If a load balancer is not a bottleneck, then using it increases the throughput of the system. 
+e) Sometimes it makes sense to have a load balancer that distributes the load in an uneven manner. 
 
+**Answer is a,c,d,e
