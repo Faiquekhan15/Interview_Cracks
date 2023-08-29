@@ -1,0 +1,54 @@
+Problem Title: Enhanced User Registration and Login System
+
+Problem Description:
+
+You are tasked with enhancing a user registration and login system for an application. The application's main functionality involves registering new users and allowing registered users to log in while enforcing additional security measures.
+
+Interfaces:
+
+IUser: An interface representing a user.
+Classes:
+
+User: A class that implements the IUser interface. It has properties including Username and Email, and tracks the number of failed login attempts with the IncorrectAttempt property.
+
+IApplication: An interface representing the application's functionality.
+
+Application: A class that implements the IApplication interface. It contains methods for user registration and login with enhanced security checks.
+
+Methods:
+
+string Register(IUser user): This method takes a user of type IUser and returns a string. It verifies that the user is not already registered. If the user is not registered, it adds the user to the RegisteredUsers list, initializes the IncorrectAttempt property, and returns a "Registration successful." message. If the user is already registered, it returns an "User is already registered." message.
+
+string Login(IUser user): This method takes a user of type IUser and returns a string. It verifies the following conditions:
+
+The provided email is registered.
+The user does not have too many failed login attempts (tracked by IncorrectAttempt property).
+The password is correct.
+The user is not logged in already.
+If all tests pass, the method adds the user to the UsersLoggedIn list, resets the IncorrectAttempt property to 0, and returns a "Login successful." message. Otherwise, it increments the IncorrectAttempt property and returns an appropriate failure message.
+
+Properties:
+
+List<IUser> RegisteredUsers: A list containing instances of registered users.
+List<IUser> UsersLoggedIn: A list containing instances of users currently logged in.
+Implement the User and Application classes according to the provided interfaces and methods.
+
+Write a program to demonstrate the usage of the Application class. Create user instances, register them, and attempt to log in with various scenarios, including failed attempts due to incorrect passwords or too many failed logins.
+
+Sample Input/Output:
+
+sql
+Copy code
+Input:
+Register User: Alice (with valid email and password)
+Register User: Bob (with valid email and password)
+Login User: Alice (with correct password)
+Login User: Bob (with incorrect password)
+Login User: Alice (after exceeding login attempts)
+
+Output:
+Registration successful.
+Registration successful.
+Login successful.
+Incorrect password. You have 1 attempt(s) left.
+Too many failed attempts. Account locked.
